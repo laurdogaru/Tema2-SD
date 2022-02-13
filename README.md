@@ -1,4 +1,5 @@
 README Tema2 - Dogaru Laurentiu
+
 -Am definit o structura de tip nod care are urmatoare campuri: tabla - care
 reprezinta tabla de joc la un moment dat, fii - un vector de noduri ce
 reprezinta fiii, un camp de tip nod pentru parinte, un camp de tip intreg
